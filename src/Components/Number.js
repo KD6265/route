@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function Number() {
   return (
     <div>
-      <h1>Home</h1>
+      Number
     </div>
   )
 }
 
-export default Home;
+export default Number;
